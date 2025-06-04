@@ -7,6 +7,8 @@
 - South Sudan
 - Eritrea
 - Somalia
+- Senegal
+- Ghana
 
 # Europe
 - Germany
@@ -14,3 +16,4 @@
 - France
 - Portugal
 - United Kingdom
+- Britain
