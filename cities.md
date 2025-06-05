@@ -7,9 +7,10 @@
 # Uganda
 - Ginja
 - Kampala
+- Entebe
 
 # Tanzania
 - Arusha
 - Dodoma
-
+- Dar Es Salam
 
