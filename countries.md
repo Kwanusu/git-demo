@@ -10,6 +10,7 @@
 - Somalia
 - Senegal
 - Ghana
+- Namibia
 
 # Europe
 - Germany
@@ -18,9 +19,5 @@
 - Portugal
 - United Kingdom
 - Britain
-<<<<<<< HEAD
-=======
 - Ukrain
 
-
->>>>>>> feature/continents
