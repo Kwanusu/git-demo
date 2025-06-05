@@ -3,4 +3,6 @@
 - Asia
 - Europe
 - Australia
-- America
+- North America
+-South America
+
