@@ -1,3 +1,4 @@
+
 # Africa
 - Kenya
 - Uganda
@@ -17,3 +18,9 @@
 - Portugal
 - United Kingdom
 - Britain
+<<<<<<< HEAD
+=======
+- Ukrain
+
+
+>>>>>>> feature/continents

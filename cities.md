@@ -1,0 +1,4 @@
+# Cities
+- Nairobi
+- Mombasa
+- Kisumu
